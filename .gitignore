@@ -1,2 +1,2 @@
 # Ignoring class Files
-.class
+*.class
